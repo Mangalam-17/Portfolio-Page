@@ -18,9 +18,5 @@ This HTML code creates a simple, single-page portfolio website showcasing my inf
 4. Hobbies: A list of hobbies.
 5. Contact: containing phone number, email address, and LinkedIn profile link.
 
-
 ## Demo
-
-Insert gif or link to demo
-
 Live - https://mangalam-17.github.io/Portfolio-Page/
